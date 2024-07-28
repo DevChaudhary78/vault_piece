@@ -2,7 +2,7 @@
     "name": "vault_piece",
     "version": "0.0.1",
     "private": true,
-    "type": "module",
+    "type": "commonjs",
     "scripts": {
         "dev": "cd VueApp && vite",
         "build": "run-p type-check \"build-only {@}\" --",
